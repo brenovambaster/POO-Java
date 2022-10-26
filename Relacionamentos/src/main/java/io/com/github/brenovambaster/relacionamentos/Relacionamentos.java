@@ -16,6 +16,6 @@ public class Relacionamentos {
         cred.setCliente(cl);
         System.out.println(cl);
         int[] idade = new int[3];
-        Arra
+        
     }
 }
