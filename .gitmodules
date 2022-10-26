@@ -1,0 +1,3 @@
+[submodule "TaskManagement/TaskManagement"]
+	path = TaskManagement/TaskManagement
+	url = https://github.com/guisso/TaskManagement.git
